@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Krishica 👋</h1>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishicagopalakrishnan&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
 ---
 
 ### 💡 About Me
@@ -41,17 +36,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishicagopalakrishnan&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishicagopalakrishnan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
