@@ -6,10 +6,11 @@
   **Data Science** and **Machine Learning** – transforming raw data into actionable insights and building impactful ML solutions.  
   🌟 My goal is to turn **complex data** into clear, interpretable, and valuable knowledge for real-world applications.  
 
-- 🌱 **Currently Exploring**:  
+- 🌱 **Currently Exploring**:
   - Cutting-edge techniques in **Multi-Modal Machine Learning**  
   - **Large Language Models (LLMs)** and their applications in AI  
-  - Advancing in **Deep Learning** and **Reinforcement Learning**  
+  - Advancing in **Deep Learning** and **Reinforcement Learning**
+  - Im trying to understand and explore the world of AI agents and LLM's
 
 - 💻 **Open to Collaborate** on:  
   - **Innovative ML Projects** – From model development to deployment  
@@ -49,7 +50,7 @@
 ### 🌟 Fun Facts
 - 🎨 I love experimenting with **data visualization** and **interactive plots** to make insights more engaging and intuitive.  
 - 🚀 **I’m a data explorer at heart** – passionate about **creating machine learning solutions** that can be applied in various fields.  
-- 🌍 **Remote-first** – Open to working on **global collaborations** with people from diverse cultures and backgrounds.  
+- 🌍 **Love collaborations-first** – Open to working on **global collaborations** with people from diverse cultures and backgrounds.  
 - 🎸 When I'm not coding, I'm exploring **vintage music** – collecting rare album vinyls and antique music players!
 
 ---
